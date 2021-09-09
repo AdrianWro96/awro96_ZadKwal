@@ -10,5 +10,5 @@ Nastepnym krokiem bedzie wejscie w folder awro96_ZadKwal
 
 ```bash
 cd awro96_ZadKwal
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```

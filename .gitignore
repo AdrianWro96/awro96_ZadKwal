@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+bin/
+env/
+etc/
+lib/
+lib64
+pyvenv.cfg
+share/
+tutorial-env/
